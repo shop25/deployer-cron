@@ -9,10 +9,16 @@
             "email": "joachim@loevgaard.dk"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:juulhobert/cron-builder.git"
+        }
+    ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "deployer/deployer": "^6.0 || ^7.0",
-        "setono/cron-builder": "^0.3",
+        "setono/cron-builder": "dev-master",
         "symfony/console": "^4.4 || ^5.0",
         "thecodingmachine/safe": "^1.0",
         "webmozart/assert": "^1.0"
