@@ -10,7 +10,7 @@ Simple handling of cronjobs in your deployment process using the [Cron builder l
 ## Installation
 
 ```bash
-$ composer require setono/deployer-cron
+$ composer require shop25/deployer-cron
 ```
 
 ## Usage

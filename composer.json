@@ -1,5 +1,5 @@
 {
-    "name": "setono/deployer-cron",
+    "name": "shop25/deployer-cron",
     "type": "library",
     "description": "Use the Setono cron builder to generate cron files in your deployment process",
     "license": "MIT",
